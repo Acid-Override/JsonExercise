@@ -1,0 +1,22 @@
+{
+  "name": "Will Atwood",
+  "inventory": [
+    {
+      "itemType" : "cake",
+      "inStock" : 3
+    },
+    {
+      "itemType" : "pretzels",
+      "inStock" : 5
+    },
+    {
+      "itemType" : "ice cream",
+      "inStock" : 17,
+      "notes" : "must remain frozen"
+    }
+  ],
+  "vitals" : {
+    "position" : "dev",
+    "level" : "junior"
+  }
+}
